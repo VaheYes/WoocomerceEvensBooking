@@ -1,0 +1,5 @@
+[04-Feb-2019 19:56:28 Europe/Amsterdam] PHP Fatal error:  Call to undefined function get_header() in /home/armenia3/public_html/wp-content/themes/trendytravel/index.php on line 1
+[04-Feb-2019 20:02:44 Europe/Amsterdam] PHP Fatal error:  Call to undefined function get_header() in /home/armenia3/public_html/wp-content/themes/trendytravel/index.php on line 1
+[05-Feb-2019 10:27:21 Europe/Amsterdam] PHP Fatal error:  Call to undefined function get_header() in /home/armenia3/public_html/wp-content/themes/trendytravel/index.php on line 1
+[09-Feb-2019 22:39:24 Europe/Amsterdam] PHP Fatal error:  Call to undefined function get_header() in /home/armenia3/public_html/wp-content/themes/trendytravel/index.php on line 1
+[09-Feb-2019 22:40:41 Europe/Amsterdam] PHP Fatal error:  Call to undefined function get_header() in /home/armenia3/public_html/wp-content/themes/trendytravel/index.php on line 1

@@ -1,0 +1,14 @@
+2019-03-13T17:20:25+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/tours/wp-content/plugins/sitepress-multilingual-cms/classes/wp-core-hooks/post/class-wpml-remove-pages-not-in-current-language.php on line 18
+
+2019-03-13T17:20:40+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 49152 bytes) in /var/www/html/tours/wp-includes/wp-db.php on line 1924
+
+2019-03-13T17:21:17+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/tours/wp-includes/wp-db.php on line 1889
+
+2019-03-13T17:25:42+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 20480 bytes) in /var/www/html/tours/wp-content/plugins/sitepress-multilingual-cms/classes/wp-core-hooks/post/class-wpml-remove-pages-not-in-current-language.php on line 18
+
+2019-03-13T17:46:03+00:00 CRITICAL Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /var/www/html/tours/wp-content/plugins/sitepress-multilingual-cms/vendor/composer/ClassLoader.php on line 444
+
+2019-03-13T17:46:28+00:00 CRITICAL Out of memory (allocated 2097152) (tried to allocate 20480 bytes) in /var/www/html/tours/wp-includes/wp-db.php on line 1889
+
+2019-03-13T17:47:13+00:00 CRITICAL Out of memory (allocated 6291456) (tried to allocate 20480 bytes) in /var/www/html/tours/wp-includes/wp-db.php on line 1889
+

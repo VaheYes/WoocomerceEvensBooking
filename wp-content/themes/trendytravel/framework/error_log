@@ -1,0 +1,2 @@
+[10-Feb-2019 09:41:23 Europe/Amsterdam] PHP Fatal error:  Call to undefined function add_action() in /home/armenia3/public_html/wp-content/themes/trendytravel/framework/theme_features.php on line 126
+[11-Feb-2019 03:18:11 Europe/Amsterdam] PHP Fatal error:  Call to undefined function register_sidebar() in /home/armenia3/public_html/wp-content/themes/trendytravel/framework/register_widget_areas.php on line 3

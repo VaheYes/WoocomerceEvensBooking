@@ -1,0 +1,456 @@
+2018-02-07T06:36:37+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-07T11:37:45+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-07T23:38:55+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-08T11:38:52+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-08T23:41:34+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-09T11:39:03+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-09T23:40:13+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-10T11:35:25+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-10T23:44:08+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-11T11:35:27+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-11T23:37:31+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-12T11:39:03+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-12T23:35:53+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-13T11:35:21+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-13T23:56:12+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-14T11:35:35+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-14T23:46:20+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-15T11:46:18+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-15T23:39:46+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-16T11:35:59+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-16T23:51:02+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-17T11:35:25+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-17T23:37:23+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-18T11:45:30+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-18T23:38:37+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-19T11:37:40+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-19T23:39:24+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-20T11:35:37+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-20T23:35:20+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-21T11:35:49+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-21T23:40:26+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-22T11:35:21+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-22T23:46:40+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-23T11:38:45+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-23T23:40:33+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-24T11:35:20+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-24T23:42:56+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-25T11:35:21+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-25T23:47:22+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-26T11:35:40+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-26T23:40:50+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-27T11:35:24+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-27T23:38:49+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-02-28T11:35:21+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-01T00:02:59+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-01T11:36:13+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-01T23:35:34+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-02T11:36:34+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-02T23:36:32+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-03T11:39:32+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-03T23:46:02+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-04T11:36:11+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-04T23:35:54+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-05T11:35:44+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-05T23:35:26+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-06T11:35:48+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+
+2018-03-06T23:35:35+00:00 CRITICAL Uncaught Error: Call to undefined function request_filesystem_credentials() in /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-upgrader-skin.php:93
+Stack trace:
+#0 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-automatic-upgrader-skin.php(47): WP_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#1 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/class-wp-automatic-updater.php(144): Automatic_Upgrader_Skin->request_filesystem_credentials(false, '/mnt/data/home/...', true)
+#2 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-admin/includes/update.php(85): WP_Automatic_Updater->should_update('core', Object(stdClass), '/mnt/data/home/...')
+#3 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/update.php(215): find_core_auto_update()
+#4 /mnt/data/home/148453.cloudwaysapps.com/dyxwratszt/public_html/wp-includes/class-wp-hook.php(286
+

@@ -1,0 +1,2 @@
+[01-Aug-2018 06:36:08 Europe/Amsterdam] PHP Fatal error:  Call to undefined function plugin_basename() in /home/armenia3/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19
+[01-Feb-2019 15:34:32 Europe/Amsterdam] PHP Fatal error:  Call to undefined function plugin_basename() in /home/armenia3/public_html/wp-content/plugins/contact-form-7/wp-contact-form-7.php on line 19

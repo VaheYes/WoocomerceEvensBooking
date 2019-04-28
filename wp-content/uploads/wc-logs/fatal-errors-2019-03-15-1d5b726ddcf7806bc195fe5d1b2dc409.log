@@ -1,0 +1,120 @@
+2019-03-15T13:33:55+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T13:51:39+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T16:24:10+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T16:52:06+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T16:52:16+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T16:52:22+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T16:52:45+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T16:53:23+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T16:54:48+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
+2019-03-15T16:56:33+00:00 CRITICAL Uncaught Error: Call to undefined function seocrawler_get_option() in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php:47
+Stack trace:
+#0 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(211): include()
+#1 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-template-functions.php(1465): wc_get_template('single-product/...')
+#2 /var/www/html/tours/wp-includes/class-wp-hook.php(286): woocommerce_template_single_meta('')
+#3 /var/www/html/tours/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters(NULL, Array)
+#4 /var/www/html/tours/wp-includes/plugin.php(453): WP_Hook->do_action(Array)
+#5 /var/www/html/tours/wp-content/plugins/woocommerce/templates/content-single-product.php(58): do_action('woocommerce_sin...')
+#6 /var/www/html/tours/wp-includes/template.php(690): require('/var/www/html/t...')
+#7 /var/www/html/tours/wp-content/plugins/woocommerce/includes/wc-core-functions.php(181): load_template('/var/www/html/t...', false)
+# in /var/www/html/tours/wp-content/themes/trendytravel/woocommerce/single-product/meta.php on line 47
+
